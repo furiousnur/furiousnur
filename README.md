@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi👋 it's me Md. Nur Alam👋
 
-<!--
-**furiousnur/furiousnur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 ’m currently working on PHP|Laravel|ReactJs|VueJs|Material UI|Redux|RESTAPI|Express|MYSQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning NodeJs, ReactJs and Express
+👯 I’m looking to collaborate as a Full Stack Developer
+🤔 I’m looking for develop my skills ...
+💬 Ask me about ... MERN
+😄 Fun fact: ... I am Funny and I love to Code 
+.
+.
+.
+.
+.
+👋 Btw Thank You for looking my github😄
