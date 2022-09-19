@@ -13,3 +13,6 @@
 - [ ]
 - [ ]
 - [x] 👋 Btw Thank You for looking my github😄
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=furiousnur&theme=highcontrast&show_icons=true&count_private=true)
